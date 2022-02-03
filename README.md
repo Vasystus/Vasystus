@@ -9,9 +9,10 @@
 ```python
  .about_me {
  
- 🧩 my-passion: coding/programming;
+ 🧩 my-passion: programming;
  🪄 i-enjoy: mixing art and technologies;
- 🏹 learning: React, Python, Ruby;
+ 
+ 🏹 learning-now: React, Python, Ruby;
  📬 contact-me: artgalla8@gmail.com;
  
 }
