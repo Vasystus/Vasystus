@@ -3,7 +3,7 @@
  
 ## Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm *Hallie*(😄Hal-lee)!
 
-- 🔭 I'm currently working on how to become the greatest webdev ever and studying web development with [__Founders and Coders__](https://github.com/foundersandcoders)!:student:
+- 🔭 I'm currently working on how to become the greatest webdev ever and studying web development with [__Founders and Coders__](https://github.com/foundersandcoders)!	👩‍🎓
  
  
 ```python
