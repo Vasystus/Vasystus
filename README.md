@@ -11,7 +11,7 @@
  
  🧩 my-passion: programming;
  🪄 i-enjoy: mixing art and technologies;
- 🏹 learning-now: React, Python, Ruby;
+ 🏹 learning-now: React, TypeScript, Python, Ruby;
  🎉 best-part: watching project go live;
  📬 contact-me: artgalla8@gmail.com;
  
