@@ -26,4 +26,10 @@
 
 
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasystus&theme=merko&layout=compact" alt="TopLangs" width="400" />    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasystus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide=stars,contribs" width="525" />
+<div align="center">
+  
+![Hallie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasystus&theme=buefy&hide=stars&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasystus&theme=buefy&layout=default)
+
+</div>
+
