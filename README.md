@@ -1,4 +1,4 @@
-<img src="https://braydoncoyer.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fbraydoncoyer%2Fimage%2Fupload%2Fv1642953750%2Fglowing_gradient_background_tailwind_banner.jpg&w=1200&q=75" width="1920px" height="83px"/>
+<img src="https://braydoncoyer.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fbraydoncoyer%2Fimage%2Fupload%2Fv1642953750%2Fglowing_gradient_background_tailwind_banner.jpg&w=1200&q=75" width="1920px" height="185px"/>
 <!-- <p align="right"><img width="15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> -->
  
 
