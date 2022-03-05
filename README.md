@@ -1,8 +1,8 @@
-<img src="https://braydoncoyer.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fbraydoncoyer%2Fimage%2Fupload%2Fv1642953750%2Fglowing_gradient_background_tailwind_banner.jpg&w=1200&q=75" width="1920px" height="185px"/>
-<!-- <p align="right"><img width="15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> -->
- 
 
-## Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm *Hallie*(😄Hal-lee)!
+
+![header](https://capsule-render.vercel.app/api?type=slice&height=185&width=1920&color=gradient&section=header&text=Hello!%20%20I'm%20Hallie.&fontSize=35&animation=fadeIn&fontAlignY=40&fontAlign=80)
+
+## Welcome to my Github.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to meet you!
 
 
 - 🔭 I'm currently working on how to become the greatest webdev ever and studying web development with [__Founders and Coders__](https://github.com/foundersandcoders)!	👩‍🎓
