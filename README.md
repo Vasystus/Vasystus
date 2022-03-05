@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=185&width=1920&color=gradient&section=header&text=Hello!%20%20I'm%20Hallie.&fontSize=35&animation=fadeIn&fontAlignY=40&fontAlign=80)
 
-## Welcome to my Github.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to meet you!
+## Welcome to my Github.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to see you!
 
 
 - 🔭 I'm currently working on how to become the greatest webdev ever and studying web development with [__Founders and Coders__](https://github.com/foundersandcoders)!	👩‍🎓
