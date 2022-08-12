@@ -13,7 +13,7 @@
  
  🧩 my-passion: coding;
  🪄 i-enjoy: building thoughtful things, visual arts and puzzles;
- 🏹 mastering-now: HTML, CSS, JS, React, C#, Python;
+ 🏹 mastering-now: HTML, CSS, JS, React, Python, C#;
  🎉 best-part: watching project go live;
  📬 contact-me: artgalla8@gmail.com;
  
